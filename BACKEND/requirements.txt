@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+langgraph
+langchain
+langchain-groq
+groq
+python-dotenv
+mysql-connector-python
